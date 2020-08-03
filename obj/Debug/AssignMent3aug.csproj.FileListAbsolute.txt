@@ -1,0 +1,7 @@
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\bin\Debug\AssignMent3aug.exe.config
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\bin\Debug\AssignMent3aug.exe
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\bin\Debug\AssignMent3aug.pdb
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\obj\Debug\AssignMent3aug.csprojAssemblyReference.cache
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\obj\Debug\AssignMent3aug.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\obj\Debug\AssignMent3aug.exe
+E:\DotNet\ConsoleFirstApps\AssignMent3aug\obj\Debug\AssignMent3aug.pdb
